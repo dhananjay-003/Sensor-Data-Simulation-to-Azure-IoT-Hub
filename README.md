@@ -30,7 +30,7 @@ pip install azure-iot-device azure-cosmosdb-table
 
 # Clone this repository:
 
-git clone https://github.com/your_username/your_repo_name.git
+git clone (https://github.com/dhananjay-003/Sensor-Data-Simulation-to-Azure-IoT-Hub/blob/main/Python_code.py)
 
 # Set Up Environment:
 
